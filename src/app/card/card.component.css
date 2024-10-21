@@ -2,4 +2,9 @@
   background-color: mintcream;
   width: 350px;
 }
-img {max-width:100%;}
+figure {
+  margin: unset;
+}
+img {
+  max-width:100%;
+}
